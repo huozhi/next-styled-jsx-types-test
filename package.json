@@ -1,0 +1,17 @@
+{
+  "name": "next-styled-jsx-types",
+  "description": "",
+  "scripts": {
+    "test": "tsc"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/react": "^17.0.15",
+    "next": "^11.0.1",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "styled-jsx": "^3.4.6",
+    "typescript": "^4.3.5"
+  }
+}
